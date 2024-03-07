@@ -1,7 +1,6 @@
 # 2023 Mankik WalkooWalkoo
 SungKyul Main Project Mkwk
 
-## 1. 워쿠워쿠 간단 소개
 ### 📌 소개 포스터
 ![IMG](https://github.com/Nahhh-j/mkwk/assets/105144666/140351ba-bdd1-47e1-80e7-e3ff62ebb79f)
 
